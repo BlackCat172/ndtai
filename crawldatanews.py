@@ -53,29 +53,10 @@ for i1 in range(1,tmp+1):
     #...
 f.write((json.dumps(dict,indent=3,separators=(', ',': '),ensure_ascii=False).encode('utf8')).decode())
 f.close()
-    #print(dict)
 
 
-'''
-#---------------------------
 
-column=len(driver.find_elements(By.XPATH,'/html/body/div[1]/div/div[3]/div[1]/div[2]/div[2]/table/tbody/tr'))
-row=len(driver.find_elements(By.XPATH,'/html/body/div[1]/div/div[3]/div[1]/div[2]/div[2]/table/tbody/tr[1]/td'))
-print(column)
-print(row)
-#open file and clear
-f = open("result.txt","w")
-#crawl du lieu
-for hang in range(1,column+1):
-    for cot in range(1,3):
-        tmp='/html/body/div[1]/div/div[3]/div[1]/div[2]/div[2]/table/tbody/tr['+str(hang)+']/td['+str(cot)+']/a'
-        crawl=driver.find_element(By.XPATH,tmp).text
-        f.write(crawl+"     ")
-    f.write("\n"+"----------------"+"\n")
-f.close()
-f=open("result.txt","r")
-print(f.read())
-'''
+
 
 
 
