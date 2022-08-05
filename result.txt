@@ -1,0 +1,93 @@
+{
+   "Bài 1": {
+      "Title news": "Khúc mắc giá đất", 
+      "Description": "Chỉ cần xác định giá đất của Nhà nước bằng 70-80% giá đất thị trường là đủ mức cần thiết.", 
+      "Comment Counter": "72", 
+      "Category": "Chính trị & chính sách", 
+      "Author's name": "Đặng Hùng Võ"
+   }, 
+   "Bài 2": {
+      "Title news": "Cỏ bên kia đồi luôn xanh", 
+      "Description": "Để con cái tự tin bước chân ra thế giới, cha mẹ phải là người đầu tiên chấp nhận con mình như nó vốn có.", 
+      "Comment Counter": "94", 
+      "Category": "Giáo dục & tri thức", 
+      "Author's name": "Ngô Trọng Thanh"
+   }, 
+   "Bài 3": {
+      "Title news": "Ranh giới của team building", 
+      "Description": "Nhiều tổ chức nhầm lẫn hoạt động xây dựng đội nhóm (team building) với ăn chơi nhảy múa.", 
+      "Comment Counter": "80", 
+      "Category": "Văn hóa & lối sống", 
+      "Author's name": "Cẩm Hà"
+   }, 
+   "Bài 4": {
+      "Title news": "Đòi quyền trượng giải trình", 
+      "Description": "Trường Đại học Kinh tế sẽ giải trình gì về bộ trang phục tốt nghiệp không vi phạm quy định nào của nhà nước?", 
+      "Comment Counter": "324", 
+      "Category": "Giáo dục & tri thức", 
+      "Author's name": "Nguyễn Văn Đáng"
+   }, 
+   "Bài 5": {
+      "Title news": "Bác sĩ chạy trốn", 
+      "Description": "Người nhà bệnh nhân hung hãn đến mức y bác sĩ chỉ còn biết 'chạy là thượng sách'.", 
+      "Comment Counter": "136", 
+      "Category": "Y tế & sức khỏe", 
+      "Author's name": "Trần Văn Phúc"
+   }, 
+   "Bài 6": {
+      "Title news": "'Nhà em có một ông nội'", 
+      "Description": "Văn mẫu là sản phẩm của nền giáo dục lỗi thời mà nếu không dứt bỏ được, khó nói tới những cải cách, đổi mới lớn hơn.", 
+      "Comment Counter": "227", 
+      "Category": "Giáo dục & tri thức", 
+      "Author's name": "Chu Thị Vân Anh"
+   }, 
+   "Bài 7": {
+      "Title news": "Bình tĩnh lo lạm phát", 
+      "Description": "Không chủ quan với lạm phát, nhưng cũng không thể ứng xử thái quá, dẫn đến hệ lụy ‘tự ta làm khó ta’.", 
+      "Comment Counter": "32", 
+      "Category": "Kinh doanh & quản trị", 
+      "Author's name": "Cấn Văn Lực"
+   }, 
+   "Bài 8": {
+      "Title news": "Ngồi không ăn lương", 
+      "Description": "Cơ chế 'thay máu nhân sự' sẽ giúp giải bài toán biên chế, tinh giản những công - viên chức 'sáng cắp ô đi, tối cắp về'.", 
+      "Comment Counter": "127", 
+      "Category": "Chính trị & chính sách", 
+      "Author's name": "Lê Văn Thành"
+   }, 
+   "Bài 9": {
+      "Title news": "Lá xanh nằm nơi núi khuất", 
+      "Description": "Người sống còn có thể làm gì với những người đã nằm xuống vì đất nước?", 
+      "Comment Counter": "23", 
+      "Category": "Chính trị & chính sách", 
+      "Author's name": "Phạm Ngọc Tiến"
+   }, 
+   "Bài 10": {
+      "Title news": "Loa phường ọt ẹt", 
+      "Description": "Tôi không phản đối loa phường, nếu nó được thiết kế, lắp đặt và vận hành với một tư duy mới.", 
+      "Comment Counter": "180", 
+      "Category": "Văn hóa & lối sống", 
+      "Author's name": "Lê Quốc Vinh"
+   }, 
+   "Bài 11": {
+      "Title news": "Túi vàng, túi xanh", 
+      "Description": "Nỗ lực phân loại rác tại nguồn sẽ lại rơi vào bế tắc nếu quy trình tập kết và vận chuyển rác thải vận hành như cũ.", 
+      "Comment Counter": "97", 
+      "Category": "Môi trường", 
+      "Author's name": "Trình Phương Quân"
+   }, 
+   "Bài 12": {
+      "Title news": "Người Sài Gòn hào sảng", 
+      "Description": "Mở hẻm là câu chuyện về cách để 'mở lòng' dân và 'mở rộng' tư duy của nhà làm chính sách.", 
+      "Comment Counter": "67", 
+      "Category": "Chính trị & chính sách", 
+      "Author's name": "Trầm Hương"
+   }, 
+   "Bài 13": {
+      "Title news": "Tháo gỡ hay vá víu ngành y?", 
+      "Description": "Khủng hoảng toàn diện của ngành y hiện tại không thể được vá víu bằng một vài giải pháp hay ho mà phải được giải quyết từ gốc.", 
+      "Comment Counter": "79", 
+      "Category": "Y tế & sức khỏe", 
+      "Author's name": "Quan Thế Dân"
+   }
+}
